@@ -2,15 +2,8 @@
 
 ## Features
 
-- ✅ Gioco classico di Pacman con tutti gli elementi originali
-- ✅ Fantasmi con comportamenti diversi (Blinky, Pinky, Inky, Clyde)
-- ✅ Sistema di punteggio
-- ✅ Frutti bonus
-- ✅ Power pellet per rendere i fantasmi vulnerabili
-- ✅ Sistema di vite multiple
-- ✅ Livelli progressivi
-- ✅ Pausa del gioco
-- ✅ Chiusura con tasto ESC
+- ✅ Classic Pacman game with all original effects
+- ✅ Ghosts with different behaviours (Blinky, Pinky, Inky, Clyde)
 
 ## Requisites
 
